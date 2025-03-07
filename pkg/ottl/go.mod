@@ -4,7 +4,7 @@ go 1.23.0
 
 require (
 	github.com/alecthomas/participle/v2 v2.1.1
-	github.com/antchfx/xmlquery v1.4.3
+	github.com/antchfx/xmlquery v1.4.4
 	github.com/antchfx/xpath v1.3.3
 	github.com/elastic/go-grok v0.3.1
 	github.com/gobwas/glob v0.2.3
@@ -23,7 +23,7 @@ require (
 	go.uber.org/goleak v1.3.0
 	go.uber.org/zap v1.27.0
 	golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842
-	golang.org/x/net v0.35.0
+	golang.org/x/net v0.36.0
 )
 
 require (
